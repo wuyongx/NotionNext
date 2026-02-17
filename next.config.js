@@ -131,7 +131,7 @@ const nextConfig = {
       'webmention.io',
       'ko-fi.com',
       'res.cloudinary.com',                                                                                                                                                     
-      'twimg.com'
+      'pbs.twimg.com'
     ],
     unoptimized: true, 
     // 图片加载器优化
