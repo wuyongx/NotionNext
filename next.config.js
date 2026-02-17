@@ -129,8 +129,11 @@ const nextConfig = {
       'source.unsplash.com',
       'p1.qhimg.com',
       'webmention.io',
-      'ko-fi.com'
+      'ko-fi.com',
+      'res.cloudinary.com',                                                                                                                                                     
+      'twimg.com',  
     ],
+    unoptimized: true, 
     // 图片加载器优化
     loader: 'default',
     // 图片缓存优化
